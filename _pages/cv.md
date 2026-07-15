@@ -11,35 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Eng. in Computer Engineering, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), Expected July 2027
+  * The SSE Bachelor-PhD program Student
+  * Honors: Dean's List (2024-2025, 2025-2026), Undergraduate Research Awards
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan 2026 - Present: Student Researcher
+  * AI Power Laboratory, CUHK-Shenzhen
+  * Supervised by: Professor Junhua Zhao and Dr. Guolong Liu
+  * Focus: Early-Cycle Battery Lifetime Prediction under Cross-Dataset Heterogeneity
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2024 - Jan 2026: Student Researcher
+  * Future Network of Intelligence Institute, CUHK-Shenzhen、
+  * Supervised by: Professor Zhen Li, Researcher Butian Xiong, and Researcher Xiaoyu Ye
+  * Focus: 2D Video Segmentation Consistency (MastSAM & BYOCL) & 4D Indoor Scene Generation
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr 2025 - Jul 2025: Research Assistant
+  * Chinese Academy of Science, Cloud Computing Center
+  * Focus: Transferred the Segment Anything Model (SAM) into rock blasting and cutting scenarios
   
+Project & Industry Experience
+======
+* Jan 2025 - Feb 2025: Intern
+  * Shanghai XingHe Software Co., Ltd. (Xi'an, China)
+  * Duties: Designed high-fidelity 3D models using Blender for smart city visualization and mechanical components.
+
+* Sep 2024 - Dec 2024: UI/UX Developer
+  * "PairPal" Campus App Project
+  * Duties: Engineered the front-end of a campus partner-matching app using Qt Creator, C++, and QML.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, Java, C/C++, LaTeX, R, SQL[cite: 2]
+* Engineering Tools: Blender, Qt Creator, Database Construction[cite: 2]
+* Languages: Native Mandarin, Fluent in English[cite: 2]
 
 Publications
 ======
@@ -59,6 +65,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Management member of CUHKSZ Game Research Club
+* Member of Association for Computing Machinery (ACM)
