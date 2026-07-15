@@ -43,9 +43,9 @@ Project & Industry Experience
 
 Skills
 ======
-* Programming: Python, Java, C/C++, LaTeX, R, SQL[cite: 2]
-* Engineering Tools: Blender, Qt Creator, Database Construction[cite: 2]
-* Languages: Native Mandarin, Fluent in English[cite: 2]
+* Programming: Python, Java, C/C++, LaTeX, R, SQL
+* Engineering Tools: Blender, Qt Creator, Database Construction
+* Languages: Native Mandarin, Fluent in English
 
 Publications
 ======
