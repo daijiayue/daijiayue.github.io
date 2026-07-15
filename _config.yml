@@ -23,7 +23,7 @@ repository               : "daijiayue/daijiayue.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   name             : "Jiayue Dai"
   pronouns         : # example: "she/her"  
   bio              : "The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) | Sep 2023 – Jul 2027 (Expected)"
