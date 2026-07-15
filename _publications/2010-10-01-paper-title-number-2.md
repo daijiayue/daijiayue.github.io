@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "BYOCL: Build Your Own Consistent Latent with Hierarchical Representative Latent Clustering"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2025-10-01-BYOCL
+excerpt: 'Resolving semantic information inconsistencies across multiple views in 2D video segmentation using SAM, PCA analysis, and clustering techniques.'
+date: 2025-10-01
+venue: 'arXiv'
+paperurl: ''
+citation: 'Jiayue Dai, et al. (2025). "BYOCL: Build Your Own Consistent Latent with Hierarchical Representative Latent Clustering." arXiv.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Utilized the SAM model, PCA analysis, and clustering techniques as part of a collaborative team effort to resolve semantic information inconsistencies across multiple views in 2D video segmentation.
