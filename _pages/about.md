@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
 
 I am a student researcher in the SSE Bachelor-PhD program at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), where I am pursuing a Bachelor of Engineering in Computer Engineering (Expected July 2027). 
 
