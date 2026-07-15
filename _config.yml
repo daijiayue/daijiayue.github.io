@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Jiayue Dai"
   pronouns         : # example: "she/her"  
-  bio              : "SSE Bachelor-PhD Program Student & Researcher"
+  bio              : "The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) | Sep 2023 – Jul 2027 (Expected) Bachelor of Engineering in Computer Engineering"
   location         : "Shenzhen, China"
-  employer         : "CUHK-Shenzhen"
-  uri              : # URL
+  employer         : "The Chinese University of Hong Kong, Shenzhen"
+  uri              : "https://daijiayue.github.io"
   email            : "123090073@link.cuhk.edu.cn" 
 
   # Academic websites
