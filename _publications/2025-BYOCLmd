@@ -3,7 +3,7 @@ title: "BYOCL: Build Your Own Consistent Latent with Hierarchical Representative
 collection: publications
 permalink: /publication/2025-10-01-BYOCL
 excerpt: 'Resolving semantic information inconsistencies across multiple views in 2D video segmentation using SAM, PCA analysis, and clustering techniques.'
-date: 2025-10-01
+year: 2025
 venue: 'arXiv'
 paperurl: ''
 citation: 'Jiayue Dai, et al. (2025). "BYOCL: Build Your Own Consistent Latent with Hierarchical Representative Latent Clustering." arXiv.'
