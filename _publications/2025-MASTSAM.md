@@ -3,7 +3,7 @@ title: "MastSAM: Solving Multi-view Inconsistency Segmentation by Sequence Match
 collection: publications
 permalink: /publication/2026-01-01-MastSAM
 excerpt: 'A new method for performing semantically consistent segmentation across consecutive video frames by combining Mast3R with the SAM models.'
-date: 2026-01-01
+year: 2025
 venue: 'Submitted to International Joint Conference on Neural Networks（2025）'
 paperurl: ''
 citation: 'Jiayue Dai, et al. (2025). "MastSAM: Solving Multi-view Inconsistency Segmentation by Sequence Matched 3D Coordinates." Submitted to IJCNN.'
