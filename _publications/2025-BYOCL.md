@@ -2,7 +2,7 @@
 title: "BYOCL: Build Your Own Consistent Latent with Hierarchical Representative Latent Clustering"
 collection: publications
 category: preprints
-permalink: /publication/2025-10-01-BYOCL
+permalink: /publication/2025-BYOCL
 excerpt: 'Resolving semantic information inconsistencies across multiple views in 2D video segmentation using SAM, PCA analysis, and clustering techniques.'
 year: 2025
 venue: 'arXiv'
