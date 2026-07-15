@@ -1,6 +1,7 @@
 ---
 title: "MastSAM: Solving Multi-view Inconsistency Segmentation by Sequence Matched 3D Coordinates"
 collection: publications
+category: conferences
 permalink: /publication/2026-01-01-MastSAM
 excerpt: 'A new method for performing semantically consistent segmentation across consecutive video frames by combining Mast3R with the SAM models.'
 year: 2025
